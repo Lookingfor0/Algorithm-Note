@@ -4,3 +4,9 @@ Algorithm-Note.layout
 Algorithm-Note.depend
 bin/
 obj/
+/.vs/Algorithm-Note/v15
+/Algorithm-Note.sln
+/Algorithm-Note.vcxproj
+/Algorithm-Note.vcxproj.filters
+/Algorithm-Note.vcxproj.user
+/Debug
